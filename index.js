@@ -1,13 +1,13 @@
 /**
- * Knight Bot - A WhatsApp Bot
- * Copyright (c) 2024 Professor
+ * NEXORA TECH Bot - A WhatsApp Bot
+ * Copyright (c) 2025 NEXORA LTD 
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the MIT License.
  * 
  * Credits:
  * - Baileys Library by @adiwajshing
- * - Pair Code implementation inspired by TechGod143 & DGXEON
+ * - Pair Code implementation inspired by NEXUX & DGXEON
  */
 require('./settings')
 const { Boom } = require('@hapi/boom')
