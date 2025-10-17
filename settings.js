@@ -1,9 +1,10 @@
 const settings = {
-  packname: 'Knight Bot',
+  packname: 'NEXORA BOT',
   author: '‎',
   botName: "NEXORA TECH",
   botOwner: 'FAVOUR AUSTIN', // Your name
-  ownerNumber: '+2347078387622', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '+2347078387622',
+  ownnerNumber:'+23409016748127',//Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
