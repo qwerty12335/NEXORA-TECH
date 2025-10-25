@@ -2,8 +2,8 @@ const settings = {
   packname: 'NEXORA BOT',
   author: '‎',
   botName: "NEXORA TECH",
-  botOwner: 'NERIS TEAM..', // Your name
-  ownnerNumber:'+23409016748127', //Set your number here without + symbol, just add country code & number without any space
+  botOwner: 'FAVOUR AUSTIN ..', // Your name
+  ownnerNumber:'+23409115072694', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
